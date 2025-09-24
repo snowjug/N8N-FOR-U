@@ -1,8 +1,10 @@
 # n8n Workflow Automation Templates 🚀
 
-![n8n Architecture](n8n_architecture.png)
+![n8n Architecture](generated-image.png)
 
 ## Overview
+https://www.n8nfreeshare.online/ FOR MORE TEMPLATES 
+GDRIVE : https://drive.google.com/drive/folders/1nkwDEbFOLyvkjGtYZ9MbOI4v-wLSpmQD?usp=drive_link
 
 This repository contains a comprehensive collection of **n8n workflow automation templates** designed to streamline business processes and increase productivity. Whether you're automating marketing campaigns, managing CRM data, or processing documents, these templates provide ready-to-use solutions that can save hours of manual work.
 
