@@ -1,4 +1,4 @@
-# n8n AI-Powered WordPress & WhatsApp Automation Templates
+# n8n AI-Powered Templates FOR ALL
 
 A comprehensive collection of professional n8n workflow templates that integrate AI capabilities with WordPress content management and WhatsApp business automation. These templates are designed for developers, MCA students, and business automation specialists looking to implement enterprise-grade AI solutions.
 
